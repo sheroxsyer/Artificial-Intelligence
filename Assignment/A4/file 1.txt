@@ -1,0 +1,5 @@
+This is a sentence. So is this!
+Number of sentences: 2
+Number of words: 7
+Number of characters: 23
+Readability index: 0
